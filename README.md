@@ -1,2 +1,2 @@
 # O_Portfolio
-Archive of Data Analytics Projects
+Archive of Technical Projects
